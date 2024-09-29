@@ -18,8 +18,8 @@ Make sure you have Python installed on your machine. This project uses the follo
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/whoisni30/simple-diwali-rangoli.git
-   cd simple-diwali-rangoli
+   git clone https://github.com/whoisni30/rangoli.git
+   cd rangoli
    ```
 
 2. **Run the program:**
